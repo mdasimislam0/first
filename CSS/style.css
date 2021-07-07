@@ -5,10 +5,17 @@ body{
 h1{
     font-size: 50px;
 }
+h3{
+    font-size: 30px;
+
+}
+p{
+    font-size: 25px;
+}
 .one{
     color: coral;
 }
-section{
+.flexible-container{
     display: flex;
     margin-bottom: 100px;
 }
@@ -36,4 +43,35 @@ section{
     background-repeat: no-repeat;
     background-image: url(../images/l.png);
     background-position: right;
+}
+.experience-items{
+    width: 40%;
+    margin-left: 6%;
+    margin-right: 5%;
+    padding: 15px;
+    border-radius: 15px;
+    box-shadow: 10px 10px 40px gray;
+}
+.experience-areas{
+    background-repeat: no-repeat;
+    background-position: left;
+    background-image: url(../images/m.png);
+}
+.text-align{
+    text-align: center;
+    text-decoration-line: underline;
+}
+#baby-Stack-Web-Developer{
+ border-left: 7px solid; 
+ background-image: linear-gradient(blue cyan );
+ border-image-slice: 1;
+}
+#Full-Stack-Web-Developer{
+    border-left: 7px solid; 
+    background-image: linear-gradient(red tomato );
+    border-image-slice: 1;
+
+}
+footer p{
+    text-align: center;
 }
