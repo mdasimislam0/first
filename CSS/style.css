@@ -75,3 +75,37 @@ p{
 footer p{
     text-align: center;
 }
+.Educational-top{
+    background-repeat: no-repeat;
+    background-position: right;
+    background-image: url(../images/m.png);
+    
+
+}
+#Running-Versity-life{
+    margin-left: 1000px;
+border-left: 7px solid; 
+ background-image: linear-gradient(blue cyan );
+ border-image-slice: 1;
+
+}
+#Higher-secondary-school{
+    
+ border-left: 7px solid; 
+ background-image: linear-gradient(blue cyan );
+ border-image-slice: 1;
+
+}
+#Insha-allah{
+    font-weight: 400;
+    
+}
+.Educational-Backgroud{
+    width: 28%;
+    margin-left: 6%;
+    margin-right: 5%;
+    padding-top: 120px;
+    padding-left: 250px;
+    
+
+}
